@@ -3,7 +3,6 @@
 - 💬 Tenho 19 anos, cursei o Ensino Médio Técnico em Informática no IFPB Campina Grande
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na Unifacisa Campina Grande
 - 🔱 A tecnologia que mais estou familiarizado é o NodeJs
-- 🌱 Estou atualmente iniciando meus estudos em Java e posteriormente em Spring Boot
 - 👯 Estou sempre a procura de evoluir
 - 🤔 Busco vaga de estágio para adentrar no mercado de trabalho
 - ⚡ Amo Back-End
